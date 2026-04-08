@@ -1,10 +1,13 @@
 {
-  "name": "Interview Hub Marketplace",
+  "name": "interview-hub-marketplace",
   "description": "Marketplace for Interview Hub Claude Code plugins",
+  "owner": {
+    "name": "lcarera"
+  },
   "plugins": [
     {
       "name": "interview-hub",
-      "repository": "lcarera/Interview-Hub-Plugin"
+      "source": "lcarera/Interview-Hub-Plugin"
     }
   ]
 }
