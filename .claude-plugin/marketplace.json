@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "interview-hub",
-      "source": "lcarera/Interview-Hub-Plugin"
+      "source": "./"
     }
   ]
 }

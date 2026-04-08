@@ -35,6 +35,15 @@ claude plugin install interview-hub@interview_hub_plugin
 
 The plugin's skills will appear under the **Skills** section in the Customize panel.
 
+## Creating your own plugin
+
+If you want to create your own Claude Code plugin, install the [plugin-dev](https://github.com/anthropics/claude-plugins-official) plugin. It includes skills and agents for scaffolding plugins, writing skills, creating hooks, and validating your plugin structure:
+
+```bash
+claude plugin marketplace add anthropics/claude-plugins-official
+claude plugin install plugin-dev
+```
+
 ## Plugin structure
 
 ```
