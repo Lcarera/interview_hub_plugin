@@ -40,7 +40,8 @@ The plugin's skills will appear under the **Skills** section in the Customize pa
 ```
 Interview-Hub-Plugin/
 ├── .claude-plugin/
-│   └── plugin.json          # Plugin manifest
+│   ├── plugin.json          # Plugin manifest
+│   └── marketplace.json     # Marketplace index
 ├── skills/
 │   ├── add-email-type/
 │   │   └── SKILL.md

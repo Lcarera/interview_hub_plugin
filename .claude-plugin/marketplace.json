@@ -1,0 +1,10 @@
+{
+  "name": "Interview Hub Marketplace",
+  "description": "Marketplace for Interview Hub Claude Code plugins",
+  "plugins": [
+    {
+      "name": "interview-hub",
+      "repository": "lcarera/Interview-Hub-Plugin"
+    }
+  ]
+}
